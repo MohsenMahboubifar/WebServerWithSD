@@ -10,6 +10,12 @@ In this project we will try to setup a web server using Arduino Mega2560, Ethern
 4. Network switch
 5. micro-SD 16GB (Which can be less even 512MB)
 
+# HTML
+
+Here we can check the html contents.
+
+Template of an HTML file is like below:
+
 ```
 	<html>
 		<head>
@@ -21,3 +27,4 @@ In this project we will try to setup a web server using Arduino Mega2560, Ethern
 		</body>
 	</html>
 ```
+
